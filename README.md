@@ -11,7 +11,7 @@ De plus il manque le config.js qui ce trouve normalement à la racine du documen
 
 module.exports = {
 
-    /*Le token est l'id unique du bot. */ 
+    //Le token est l'id unique du bot.
     token: "LE-TOKEN-DU-BOT",
     prefix: "!",
 	
