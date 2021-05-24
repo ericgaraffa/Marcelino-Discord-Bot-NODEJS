@@ -10,7 +10,7 @@ npm i ms
 De plus il manque le config.js qui ce trouve normalement à la racine du document, il contient le contenu suivant :
 
 module.exports = {
-    //Le token est l'id unique du bot.
+    /*Le token est l'id unique du bot. */
     token: "LE-TOKEN-DU-BOT",
     prefix: "!",
 };
